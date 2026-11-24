@@ -1,0 +1,25 @@
+{
+  "name": "牛马脱敏器",
+  "short_name": "牛马脱敏器",
+  "description": "实时显示你今天上班已经赚了多少钱，数字平滑滚动，精确到小数点后 5 位",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f1e",
+  "theme_color": "#14162c",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
